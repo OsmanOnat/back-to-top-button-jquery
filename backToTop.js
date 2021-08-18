@@ -1,4 +1,4 @@
-var topButton = document.getElementById("topButton");
+var topButton = document.getElementById("topButton");//HTML id değerini topButton olarak belirttim ve topButton değişkenine eşitledim .
 
 function scrollTop() {
     $(window).scroll(function() {
