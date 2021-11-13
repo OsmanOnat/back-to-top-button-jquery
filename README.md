@@ -1,7 +1,9 @@
 id topButton olarak belirtilmiştir . Farklı bir id giremek isterseniz script dosyasındaki getelementbyid değerini değiştirmeyi unutmayın.
 
 # SCSS - CSS
+
 #topButton {
+
     position: fixed;
     right: 10px;
     bottom: 10px;
